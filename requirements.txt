@@ -1,7 +1,9 @@
-# python-docker-dev
-
-A simple Python app for [Docker's Python Language Guide](https://docs.docker.com/language/python).
-
-#additions to tutorial 
-1. x-develop insted of develop
-2. comand to watch : docker compose up --wait -d && docker compose alpha watch
+blinker==1.6.2
+click==8.1.6
+colorama==0.4.6
+Flask==2.3.2
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+psycopg2-binary==2.9.6
+Werkzeug==2.3.6
